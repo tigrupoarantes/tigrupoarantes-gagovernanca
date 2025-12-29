@@ -1,0 +1,7 @@
+{
+  "name": "GA Governança",
+  "description": "Uma plataforma executiva premium para monitoramento de governança estratégica, conformidade de rotinas e gestão de evidências para o C-Level.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
